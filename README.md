@@ -1,8 +1,8 @@
-# 🧠 Assignment 3
+# Assignment 3
 
 ---
 
-## 📋 Overview
+## Overview
 This assignment covers three major topics:
 1. **Graph Cut Segmentation (GrabCut)**  
    - Detect person using a pretrained model.  
@@ -21,7 +21,7 @@ This assignment covers three major topics:
 
 ---
 
-## 📊 Summary
+## Summary
 | Task | Topic | Key Focus | Result |
 |------|--------|-----------|--------|
 | 1 | Graph Cut | Classical segmentation | Foreground extraction successful |
@@ -36,4 +36,4 @@ FCN-Bilinear achieved higher accuracy and smoother masks, while VAE showed meani
 
 ---
 
-🧑‍💻 *Aphisit (st126130)*
+🧑‍💻 **Aphisit (st126130)**
