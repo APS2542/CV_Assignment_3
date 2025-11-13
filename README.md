@@ -28,11 +28,6 @@ This assignment covers three major topics:
 | 2 | FCN | Deep learning segmentation | Bilinear outperformed Transpose |
 | 3 | VAE | Representation learning | Smooth reconstruction and latent transitions |
 
----
-
-**Overall:**  
-All three tasks were successfully implemented with clear visualization and concise analysis.  
-FCN-Bilinear achieved higher accuracy and smoother masks, while VAE showed meaningful latent representation.
 
 ---
 
