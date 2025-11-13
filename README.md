@@ -22,13 +22,19 @@ This assignment covers three major topics:
 ---
 
 ## Summary
-| Task | Topic | Key Focus | Result |
-|------|--------|-----------|--------|
-| 1 | Graph Cut | Classical segmentation | Foreground extraction successful |
-| 2 | FCN | Deep learning segmentation | Bilinear outperformed Transpose |
-| 3 | VAE | Representation learning | Smooth reconstruction and latent transitions |
-
+| Task | Topic              | Key Focus                         | Result                             |
+|------|--------------------|-----------------------------------|------------------------------------|
+| 1    | Graph Cut          | Classical segmentation            | Foreground extraction successful   |
+| 2    | FCN                | Deep learning segmentation        | Bilinear outperformed Transpose    |
+| 3    | VAE                | Representation learning (MNIST)   | Smooth reconstruction & interpolation |
 
 ---
+## How to run
+
+1. Open each notebook in Jupyter / Colab.
+2. Run all cells from top to bottom.
+3. For Task 2 (FCN), make sure the VOC subset is placed under `data/task2/...`.
+---
+
 
 🧑‍💻 **Aphisit (st126130)**
